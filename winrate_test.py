@@ -9,7 +9,7 @@ rate_delay = 0.6
 
 records_per_page = 100
 #game_id = 161936
-game_id = 171668
+game_id = 100901
 
 start_time = time.time()
 
